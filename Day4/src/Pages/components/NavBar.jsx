@@ -7,7 +7,7 @@ function NavBar() {
         <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <a href="#" className="flex items-center">
             <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              Company Logo
+              Aces React Workshop
             </span>
           </a>
           <div className="flex items-center lg:order-2">
